@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SbZdgJt89uOEH81FhcFMbYVxAhsfW0+Nk9TbQc9J2vk=",
+  "Source": "CustomCQRS",
+  "BasePath": "_content/CustomCQRS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
